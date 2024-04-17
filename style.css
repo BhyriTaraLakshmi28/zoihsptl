@@ -1,0 +1,28 @@
+p
+{
+  color:rgb(100, 255, 255);
+}
+
+h1
+{
+    background:magenta ;
+    color:brown;
+}
+
+a{
+    color:blueviolet;
+}
+
+h3{
+    color:rgba(255,55,25, 0.5);
+}
+
+address{
+    color:#e056fd;
+}
+
+body
+{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
